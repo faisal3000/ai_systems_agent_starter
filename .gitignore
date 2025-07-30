@@ -1,14 +1,15 @@
-﻿# Python virtualenv
+﻿# Python venv
 backend/.venv/
 frontend/node_modules/
 
-# Database
+# Build outputs
+frontend/.next/
 users.db
 backend/users.db
 
 # VSCode
 .vscode/
 
-# Python cache
+# Python caches
 **/__pycache__/
 **/*.py[cod]
