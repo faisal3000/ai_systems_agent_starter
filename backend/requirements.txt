@@ -1,0 +1,17 @@
+﻿fastapi==0.116.*
+uvicorn[standard]==0.35.*
+python-dotenv==1.1.*
+
+python-jose[cryptography]==3.3.*
+passlib[bcrypt]==1.7.*
+
+redis==6.*
+fastapi-limiter==0.1.*
+
+sqlmodel==0.0.24
+faiss-cpu==1.11.0.post1
+
+openai==1.97.*
+requests==2.*
+python-multipart==0.0.20
+pypdf==5.*

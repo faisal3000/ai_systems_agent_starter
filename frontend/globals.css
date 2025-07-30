@@ -1,0 +1,10 @@
+﻿/* C:\Users\mxz\Downloads\ai_systems_agent_starter\frontend\globals.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  @apply bg-gray-100 text-gray-900 h-full w-full;
+}
+#__next { @apply h-full; }

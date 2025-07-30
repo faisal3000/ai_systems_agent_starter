@@ -1,0 +1,1 @@
+export default function Deep_Dive(){return <div className='p-4'>Deep_Dive page</div>}

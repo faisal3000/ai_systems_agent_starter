@@ -1,0 +1,14 @@
+﻿# Python virtualenv
+backend/.venv/
+frontend/node_modules/
+
+# Database
+users.db
+backend/users.db
+
+# VSCode
+.vscode/
+
+# Python cache
+**/__pycache__/
+**/*.py[cod]
